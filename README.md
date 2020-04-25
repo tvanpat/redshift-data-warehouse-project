@@ -133,7 +133,7 @@ The use tables are the **songplay_fact**, **time_dim**, **user_dim**, **song_dim
  | location | VARCHAR      |     | |
  | user_agent | VARCHAR     |     | |
 
- ![ERD Diagram](./images/snowflake_erd.png)
+ ![ERD Diagram](./images/snowflake_erd.PNG)
 
 ## File Description
 
