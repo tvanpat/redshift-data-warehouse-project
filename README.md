@@ -73,7 +73,7 @@
   | user_agent                     | VARCHAR  |
   | user_id                 | INTEGER                 |
 
-![Staging ERD Diagram](./images/stage_erd.png?raw=true "Staging ERD Diagram")
+<img src="./images/stage_erd.png">
 
 
 The use tables are the **songplay_fact**, **time_dim**, **user_dim**, **song_dim**, and **artist_dim** tables.  These tables are in the
